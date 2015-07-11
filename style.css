@@ -58,6 +58,8 @@ div.secondline {
 div.text {
   margin: 20px auto;
   max-width: 740px;
+  font-size: .8em ;
+  color: #516E99;
 }
 
 div.spec_block {

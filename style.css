@@ -1,0 +1,112 @@
+
+body{
+	font-size: 1.5em ;
+  font-family: "Fira Sans", "Sans";
+  /*font: 1.6em "Source Sans Pro";*/
+	margin: 0px;
+	background-color: #1a253a;
+	color: #96c7ff;
+}
+
+p {
+  margin: 50px 20px;
+}
+
+h2 {
+  margin: 0px 20px;
+  font-size: 1.4em ;
+  font-family: "Fira Sans", "Sans";
+  font-weight: bold;
+}
+h3 {
+  margin: 0px 20px;
+  font-size: 1.3em ;
+  font-family: "Fira Sans", "Sans";
+  font-weight: bold;
+}
+
+
+
+#top_box {
+  background-color: #375bb9;
+  padding: 80px;
+  /*margin: 60px auto;
+  max-width: 80%;*/
+}
+
+#logo {
+  margin: 10px auto;
+  width: 380px;
+}
+
+#topline {
+  background-color: #428aff;
+  padding: 30px;
+  text-align: center;
+  margin: 0 0 80px 0;
+}
+
+div.secondline {
+  background-color: #333860;
+  color: #818abe;
+  padding: 20px;
+  text-align: center;
+  margin: 120px 0 50px;
+}
+
+
+div.text {
+  margin: 20px auto;
+  max-width: 740px;
+}
+
+div.spec_block {
+  width: 1500px;
+  margin: 50px auto;
+}
+
+
+div.spacer1 {
+  height: 80px;
+  margin: 10px;
+}
+
+div.spacer2 {
+  height: 140px;
+  margin: 100px;
+}
+
+#footer {
+  background-color: #1857a7;
+  color: #508dff;
+  font-size: 0.8em;
+  padding: 40px;
+  margin-top: 60px;
+  height: 600px;
+}
+
+#footer_icon_box {
+  background-color: #1a5caf;
+  color: #508dff;
+  padding: 50px 90px 35px;
+  margin: 120px auto;
+  width: 150px;
+  text-align: center;
+}
+
+a:link {
+	color: #c8daf3;
+	text-decoration: none;
+}
+a:visited {
+	color: #c8daf3;
+	text-decoration: none;
+}
+a:active {
+	color: #c8daf3;
+	text-decoration: none;
+}
+a:hover {
+	color: #1589C4;
+	text-decoration: none;
+}

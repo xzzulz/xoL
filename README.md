@@ -1,8 +1,14 @@
-# xoL
+![xoL](http://nzonbi.github.io/xoL/res/xol.png)
+
+# xoL 
 
 ## xoL programming language concept
 
 xoL is currently a concept design for a graphic based programming language. It is an attemp to determine if a graphic language can be usable. Work is in progress to create a prototype programming tool for the language. Not expected to be ready soon.
+
+## Specs
+
+This repository contains the specs for the language, in the form of a webpage. See it: http://nzonbi.github.io/xoL/
 
 ## Introduction
 

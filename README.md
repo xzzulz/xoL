@@ -2,20 +2,25 @@
 
 # xoL 
 
-## xoL programming language concept
+## xoL graphical programming language
 
-xoL is currently a concept design for a graphic based programming language. It is an attemp to determine if a graphic language can be usable. Work is in progress to create a prototype programming tool for the language. Not expected to be ready soon.
+xoL is a graphic based programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages.
+
+## Project status
+
+Concept design is complete. A presentation of the language specs is being built.
 
 ## Specs
 
-This repository contains the specs for the language, in the form of a webpage. Currently a work in progress. See it: http://nzonbi.github.io/xoL/
+This repository contains a presentation of the language specs, in the form of a webpage. Currently a work in progress. See it: http://nzonbi.github.io/xoL/
 
 ## Introduction
 
-xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations can make easier to understand programs. More specialized user interfaces can make easier to work with them.
-xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticated UI, well suited for tablets and desktops.
+xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations can make easier to understand programs. More specialized user interfaces can make easier to work with them. xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticated UI, well suited for tablets and desktops. 
 
-Visual is used to refer to programming languages that employ graphics, instead of just text to convey information. Visual languages have failed to gain mainstream acceptance. Currently all programming, save some minor niches, is done with text based languages.
+xoL is statically typed, object based, hybrid functional, garbage collected language. Its design is oriented toward simplicity, symmetry and beauty.
+
+Graphical or visual is used to refer to programming languages that employ graphics, instead of just text to convey information. Visual languages have failed to gain mainstream acceptance. Currently all programming, save some minor niches, is done with text based languages.
 
 Not considering platform attachment, visual languages so far, have failed against text based ones, on the fundamental features that make languages usable. These features are a few key points, that drive programmers preference of languages. When language selection is not forced by the platform or ecosystem, selection is driven mainly by these factors:
 

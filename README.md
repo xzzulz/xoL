@@ -18,7 +18,7 @@ This repository contains a presentation of the language specs, in the form of a 
 
 xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations can make easier to understand programs. More specialized user interfaces can make easier to work with them. xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticated UI, well suited for tablets and desktops. 
 
-xoL is statically typed, object based, hybrid functional, garbage collected language. Its design is oriented toward simplicity, symmetry and beauty.
+xoL is statically typed, object based, hybrid functional, planned to be implemented on top of javascript. Its design is oriented toward simplicity and symmetry.
 
 Graphical or visual is used to refer to programming languages that employ graphics, instead of just text to convey information. Visual languages have failed to gain mainstream acceptance. Currently all programming, save some minor niches, is done with text based languages.
 

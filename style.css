@@ -66,7 +66,16 @@ div.spec_block {
   width: 1500px;
   margin: 50px auto;
 }
-
+@media all and (max-width: 1600px) {
+  div.spec_block {
+    width: 100%;
+    margin: 20px auto;
+  }
+  div.spec_block > img {
+    width: 100%;
+    margin: 20px auto;
+  }
+}
 
 div.spacer1 {
   height: 80px;

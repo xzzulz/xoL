@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1879795"
+     inkscape:zoom="0.99793651"
      inkscape:cx="697.73473"
-     inkscape:cy="379.40239"
+     inkscape:cy="407.74515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -382,7 +382,7 @@
          sodipodi:role="line"
          x="294.6517"
          y="357.38928"
-         id="tspan3845-5-5-67-2-8-71">sub_string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71">substring</tspan></text>
     <rect
        style="color:#000000;fill:#007ab3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.39999961999999911;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3793-2-8-51-0-5-3-4-5-8-3-9-0-8-5-0-3-5"
@@ -547,7 +547,7 @@
          sodipodi:role="line"
          x="290.18027"
          y="652.67828"
-         id="tspan3845-5-5-67-2-8-71-1">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1">substring</tspan></text>
     <rect
        style="color:#000000;fill:#007ab3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.39999961999999911;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3793-2-8-51-0-5-3-4-5-8-3-9-0-8-5-0-3-4"
@@ -712,7 +712,7 @@
          sodipodi:role="line"
          x="972.96155"
          y="304.36386"
-         id="tspan3845-5-5-67-2-8-71-1-8">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1-8">substring</tspan></text>
     <rect
        style="color:#000000;fill:#1d2940;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4154-7-2"
@@ -919,7 +919,7 @@
          sodipodi:role="line"
          x="1050.5742"
          y="552.93262"
-         id="tspan3845-5-5-67-2-8-71-1-8-2">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1-8-2">substring</tspan></text>
     <rect
        style="color:#000000;fill:#235ccf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6485-2-6-1-3-5-8-6-1-1-2-7-2-9-6-86-7-1-2-3-5-3-9-3-7-7-8-1-1-0-3-2-9-3-9-9-8-7-5-3-9-1-8-6-8-5-9-9-9-0-9-4-0"
@@ -979,7 +979,7 @@
          sodipodi:role="line"
          x="1165.5742"
          y="554.93262"
-         id="tspan3845-5-5-67-2-8-71-1-8-7">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1-8-7">substring</tspan></text>
     <rect
        style="color:#000000;fill:#007ab3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.39999961999999911;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3793-2-8-51-0-5-3-4-5-8-3-9-0-8-5-0-3-4-5"
@@ -1144,7 +1144,7 @@
          sodipodi:role="line"
          x="939.46094"
          y="552.73492"
-         id="tspan3845-5-5-67-2-8-71-1-8-8">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1-8-8">substring</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#807b00;fill-opacity:1;stroke:none;display:inline;font-family:Inder;-inkscape-font-specification:Inder"
@@ -1348,7 +1348,7 @@
          sodipodi:role="line"
          x="1162.5742"
          y="652.09637"
-         id="tspan3845-5-5-67-2-8-71-1-8-7-5">sub string</tspan></text>
+         id="tspan3845-5-5-67-2-8-71-1-8-7-5">substring</tspan></text>
     <rect
        style="color:#000000;fill:#007ab3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.39999961999999911;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3793-2-8-51-0-5-3-4-5-8-3-9-0-8-5-0-3-2-0-3"

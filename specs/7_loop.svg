@@ -27,8 +27,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1610383"
-     inkscape:cx="332.18086"
+     inkscape:zoom="0.97530513"
+     inkscape:cx="646.18451"
      inkscape:cy="355.83052"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -558,7 +558,7 @@
        sodipodi:cy="236.67937"
        sodipodi:rx="13.311343"
        sodipodi:ry="13.311343"
-       d="m 848.49079,236.67937 a 13.311343,13.311343 0 1 1 -26.62269,0 13.311343,13.311343 0 1 1 26.62269,0 z"
+       d="m 848.49079,236.67937 c 0,7.35165 -5.95969,13.31134 -13.31135,13.31134 -7.35165,0 -13.31134,-5.95969 -13.31134,-13.31134 0,-7.35165 5.95969,-13.31135 13.31134,-13.31135 7.35166,0 13.31135,5.9597 13.31135,13.31135 z"
        transform="matrix(-0.49841445,0,0,0.49841445,1276.2897,312.12347)" />
     <rect
        style="color:#000000;fill:#22304b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -588,7 +588,7 @@
          sodipodi:role="line"
          x="117.52315"
          y="179.50031"
-         id="tspan11537">function while cond. is true</tspan></text>
+         id="tspan11537">function while condition is true</tspan></text>
     <path
        style="color:#000000;fill:#22304b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:transform-center-x="-0.63211451"
@@ -932,10 +932,10 @@
     <rect
        style="color:#000000;fill:#007ab3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.39999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3793-2-8-51-0-5-3-4-5-8-3-9-0-8-5-0"
-       width="40"
-       height="40"
-       x="291.95346"
-       y="-247.88268"
+       width="30.257309"
+       height="30.257309"
+       x="295.17105"
+       y="-252.61414"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
        sodipodi:type="star"
@@ -952,8 +952,8 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 960.6335,600.89236 58.2495,33.63035 -58.2495,33.63034 z"
-       inkscape:transform-center-x="-3.12906"
-       transform="matrix(0.23699215,0,0,0.44645848,-13.584596,28.665416)" />
+       inkscape:transform-center-x="-2.3669275"
+       transform="matrix(0.17926862,0,0,0.3377158,54.831732,96.011364)" />
     <path
        sodipodi:type="star"
        style="color:#000000;fill:#00496b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.53999996;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -969,20 +969,20 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 960.6335,600.89236 58.2495,33.63035 -58.2495,33.63034 z"
-       inkscape:transform-center-x="3.1289855"
-       transform="matrix(-0.23699215,0,0,0.44645848,469.34994,28.665416)" />
+       inkscape:transform-center-x="2.3668731"
+       transform="matrix(-0.17926862,0,0,0.3377158,420.13921,96.011364)" />
     <text
        xml:space="preserve"
-       style="font-size:18.15562248px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007ab3;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4017);font-family:Inder;-inkscape-font-specification:Inder"
-       x="180.48093"
-       y="279.65869"
+       style="font-size:13.73350716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007ab3;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4017);font-family:Inder;-inkscape-font-specification:Inder"
+       x="201.62924"
+       y="285.87088"
        id="text3755-7-60-6-9-6"
        sodipodi:linespacing="125%"
-       inkscape:transform-center-x="6.3086009"
-       inkscape:transform-center-y="13.248048"><tspan
+       inkscape:transform-center-x="4.7720334"
+       inkscape:transform-center-y="10.021258"><tspan
          sodipodi:role="line"
-         x="180.48093"
-         y="279.65869"
+         x="201.62924"
+         y="285.87088"
          id="tspan3845-5-5-67">condition</tspan></text>
   </g>
 </svg>

@@ -3,13 +3,13 @@
 
 	<meta charset="utf-8">
 
-	<title>xoL specs</title>
-	<meta name="description" content="xol specs">
+	<title>xoL</title>
+	<meta name="description" content="xoL">
 	<meta name="author" content="daniels">
 
   <link rel="shortcut icon"	href="res/xol_icon.png" />
 
-	<link rel="stylesheet" href="style.css?v=1.0">
+	<link rel="stylesheet" href="index.css?v=1.0">
   <link href='http://fonts.googleapis.com/css?family=Fira+Sans:400,700' rel='stylesheet' type='text/css'>
 
 
@@ -29,135 +29,58 @@
     <h2>xoL: Computer programming evolved</h2>
   </div>
 
-  <div class="text">
-    <p>xoL specs. This page is a work in progress.</p>
-    
-    <p>xoL is a visual programming language, similar to text based ones. The visual part allows xoL to offer enhanced information when reading code. Type information, represented with icons, is particularly notorious in xoL. This enhanced portrait of types, is intended to make reading programs easier. </p>
-    
-    <p>xoL is designed to be easy to learn and easy to use. For this, is designed to be simple. Where other languages provide multiple ways to do something, xoL may provide just one, the simplest. One area where the simplicity goal can be appreciated is the xoL type system (to be added). This simplicity as a design goal is based on the belief, that  programmers are more productive when using a simple programming language. XoL tries to be as minimal as possible, while offering the important features.</p>
+  <div id="description">
+
+  <p>xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations, can make easier to understand programs. More specialized user interfaces can make easier to work with them.
+xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticate UI, well suited for tablets and desktops.</p>
+  <p>xoL is statically typed, object based, hybrid functional, planned to be implemented on top of javascript. Its design is oriented toward simplicity and symmetry.</p>
+
+	<div class="secondline">
+	 <a href="presentation.html">xoL presentation</a>
+	</div>
+
+  <div class="spacer1"></div>
+
+  <div id="quickfacts">
+    <p><span class="question">What is xoL?</span><br/>
+    A graphical programming language designed to be more efficient than traditional text based programming.</p>
+
+    <p><span class="question">What problem does solve?</span><br/>
+    Increases developers productivity and happiness, by making programming easier.</p>
+
+    <p><span class="question">Who needs it?</span></br>
+    - Developers that want better tools to program.</br>
+    - Folks that wants better tools to learn to program.</br>
+    - Platform owners that want the best tools on their platforms.
+    </p>
+
+    <p><span class="question">What is the current status of the project?</span></br>
+    Concept design phase has been completed. Prototype development is in progress.</p>
+
+    <p><span class="question">email contact:</span></br>
+			nzonbi@gmail.com</p>
   </div>
 
   <div class="spacer1"></div>
 
-  <div class="secondline">
-    <h3>Literals</h3>
-  </div>
+  <p>Visual is used to refer to programming languages that employ graphics, instead of just text
+   to convey information. Visual languages have failed to gain mainstream acceptance. Currently
+   all programming, save some minor niches, is done with text based languages.</p>
 
-  <div class="text">
-    <p>Literals in xoL are written as is. Their size is scaled according to its length, to avoid having too large items. Code comments are enclosed in bubbles, as can be seen in the image.</p>
-  </div>
+  <p>Not considering platform attachment, visual languages so far have failed against text based
+    ones, on the fundamental features that make languages usable. These features are a few key points,
+    that drive programmers preference of languages. When language selection is not forced by the platform
+    or ecosystem, selection is driven mainly by these factors:</p>
 
-  <div class="spec_block">
-    <img src="specs/1_lit.png"></img>
-  </div>
+  <ul>
+  <li>Language design: technical features that conform the language.</li>
+  <li>User Interface (UI) efficiency: Amount of effort required to perform actions.</li>
+  <li>Information density: Amount of information shown per screen surface.</li>
+  <li>clarity: information must be clear and easy to read.</li>
+  <li>Tooling: capability to extend or automate tasks with custom tools.</li>
+  </ul>
 
-
-
-  <div class="secondline">
-    <h3>Scalars</h3>
-  </div>
-
-  <div class="text">
-    <p>Scalar variables are represented by a little icon, that shows the type. The name goes above the icon. There is a standard icon for each of the basic types: boolean, number and string.</br>A dotted circles line, ending in a triangle is the assignment operator. The dotted circles may not be needed is the two elements are near.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/2_scal.png"></img>
-  </div>
-
-
-  <div class="secondline">
-    <h3>Function calls</h3>
-  </div>
-
-  <div class="text">
-    <p>Functions are represented with a block, with a small nib. An icon in the block identifies it. The function name goes beside the block, usually below. Function arguments are placed above or on the sides of the function. They are usually named. If the function allows it, arguments can be anonymous. For example a sum function, where all the arguments are numbers and order doesn't matter, can have anonymous arguments. </br>Seeing too many text bubbles? Remember that the text bubbles is the xoL way to write code comments.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/3_funcall.png"></img>
-  </div>
-
-
-
-  <div class="secondline">
-    <h3>Flow control</h3>
-  </div>
-
-  <div class="text">
-    <p>Execution flow follows simple rules: from top to bottom, left to right. This simple rule is what determines which expression is evaluated first. Some tokens can alter this order. The double arrow indicates that an expression comes before the other. Also the move line and the assignment line forces the order of execution to follow the direction of the lines.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/4_flow.png"></img>
-  </div>
-
-
-
-
-
-  <div class="secondline">
-    <h3>Function definition</h3>
-  </div>
-
-  <div class="text">
-    <p>Functions are defined with boxes of code. The function name and icon go in the top right corner of the box. A small fold with a token icon, represents the function parameters and return values. Function can also be defined anonymously. Without name nor icon. In this case the function is passed as a parameter to another expression. Like for example, an assignment, as is the case in the figure below.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/5_fundef.png"></img>
-  </div>
-
-
-
-
-  <div class="secondline">
-    <h3>If expression</h3>
-  </div>
-
-  <div class="text">
-    <p>The if expression has the shape of an “L”. According to the boolean, only one of the branches evaluates. The if can also have only one branch. On the branches, control flow tokens can be used to extend each branch to more than one expression.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/6_if.png"></img>
-  </div>
-
-
-
-  <div class="secondline">
-    <h3>Loop expression</h3>
-  </div>
-
-  <div class="text">
-    <p>The loop token looks like a spring. It can take multiple formats of parameters. In the most basic form, it takes a boolean and a function, and will loop the function until the boolean becomes false. It can also take two numbers and a function, and loop the function counting from the lower number to the larger. Other ways of operation, involve passing a collection object, like an array. In this case, the loop will iterate over the elements of the array, passing them to the loop function.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/7_loop.png"></img>
-  </div>
-
-
-
-
-
-  <div class="secondline">
-    <h3>Objects</h3>
-  </div>
-
-  <div class="text">
-    <p>Object variables are represented with a mid sized token, with an icon drawn on it. The icon shows the type. The name of the object variable goes above the token. Objects have miniature icons below them. These represent each of their properties. The shape indicates the type: diamond for booleans, circle for numbers. Lines string, square are objects. Triangles are function, and “chains” represent collections. When there are too many, the icons are packed as can be seen in the example.</p>
-  </div>
-
-  <div class="spec_block">
-    <img src="specs/8_object.png"></img>
-  </div></p>
-  </div>
-
-
-
-
-
+  <p>xoL intends to demonstrate that with careful design, a graphical programming can surpass text based languages on most, if not all of these fundamentals. Positioning itself as the preferable choice for development. It should be capable of attaining growth, initially mainly between programmers not attached to specific platforms or ecosystems. Then becoming of interest for hardware platform holders, who want to have the best tools for their platforms.</p>
 
 
 </div>

@@ -30,8 +30,6 @@ h3 {
 #top_box {
   background-color: #375bb9;
   padding: 80px;
-  /*margin: 60px auto;
-  max-width: 80%;*/
 }
 
 #logo {
@@ -53,7 +51,20 @@ div.secondline {
   text-align: center;
   margin: 120px 0 50px;
 }
-
+div.menuline {
+  background-color: #333860;
+  color: #818abe;
+  padding: 20px;
+  text-align: center;
+  margin: 120px 0 50px;
+}
+#menu {
+  width: 400px;
+  margin: 0 auto;
+}
+span.menu {
+  margin: 10px 60px;
+}
 
 div.text {
   margin: 20px auto;

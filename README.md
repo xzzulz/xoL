@@ -2,7 +2,7 @@
 
 # xoL 
 
-## xoL graphical programming language
+## xoL visual programming language concept
 
 xoL is a graphic based programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages. The language intro is also here: http://xol.space
 

@@ -8,7 +8,7 @@ xoL is a graphic based programming language. Currently just a concept design, as
 
 ## Project status
 
-Concept design is complete. A presentation of the language specs is being built.
+Concept design is complete.
 
 ## Specs
 

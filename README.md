@@ -2,17 +2,17 @@
 
 # xoL 
 
-## xoL graphical programming language
+## xoL visual programming language
 
-xoL is a graphic based programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages. The language intro is also here: http://xol.space
+xoL is a visual programming language. Currently just a concept design, as it has not been implemented. It is an attempt to create a graphical language, that can be as good or better than text based languages.
 
 ## Project status
 
-Concept design is complete. A presentation of the language specs is being built.
+Concept design is complete. [Language presentation](http://nzonbi.github.io/xoL/.)
 
 ## Specs
 
-This repository contains a presentation of the language specs, in the form of a webpage. Currently a work in progress. See it: http://nzonbi.github.io/xoL/
+This repository contains a brief presentation of the language, in the form of a webpage: http://nzonbi.github.io/xoL/
 
 ## Introduction
 

@@ -5,7 +5,7 @@ body{
   /*font: 1.6em "Source Sans Pro";*/
 	margin: 0px;
 	background-color: #1a253a;
-	color: #96c7ff;
+	color: #dcecff;
 }
 
 p {
@@ -28,7 +28,7 @@ h3 {
 
 
 #top_box {
-  background-color: #375bb9;
+  background-color: #3355ad;
   padding: 80px;
 }
 
@@ -69,8 +69,7 @@ span.menu {
 div.text {
   margin: 20px auto;
   max-width: 740px;
-  font-size: .8em ;
-  color: #516E99;
+  color: #7893c6;
 }
 
 div.spec_block {

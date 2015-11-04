@@ -4,8 +4,8 @@ body{
   font-family: "Fira Sans", "Sans";
   /*font: 1.6em "Source Sans Pro";*/
 	margin: 0px;
-	background-color: #3c70e5;
-	color: #96c7ff;
+	background-color: #3355ad;
+	color: #dcecff;
 }
 
 p {
@@ -28,7 +28,6 @@ h3 {
 
 
 #top_box {
-  background-color: #375bb9;
   padding: 80px;
 }
 
@@ -38,14 +37,14 @@ h3 {
 }
 
 #topline {
-  background-color: #428aff;
+  background-color: #2276ff;
   padding: 30px;
   text-align: center;
   margin: 0 0 80px 0;
 }
 
 div.secondline {
-  background-color: #428aff;
+  background-color: #2276ff;
   padding: 15px;
   text-align: center;
   margin: 0 0 80px 0;
@@ -55,11 +54,11 @@ div.secondline {
 #quickfacts {
   padding: 20px;
   margin: 80px 0;
-  background-color: #428aff;
+  background-color: #2b66ff;
 }
 
 span.question {
-  color: #0065d9;
+  color: #002e87;
 }
 
 #description {
@@ -82,7 +81,7 @@ div.spacer2 {
 }
 
 #footer {
-  background-color: #1857a7;
+  background-color: #144889;
   color: #508dff;
   font-size: 0.8em;
   padding: 40px;
@@ -91,7 +90,6 @@ div.spacer2 {
 }
 
 #footer_icon_box {
-  background-color: #1a5caf;
   color: #508dff;
   padding: 50px 90px 35px;
   margin: 120px auto;
@@ -100,18 +98,18 @@ div.spacer2 {
 }
 
 a:link {
-	color: #00B2CF;
+	color: #39f7ff;
 	text-decoration: none;
 }
 a:visited {
-	color: #00B2CF;
+	color: #39f7ff;
 	text-decoration: none;
 }
 a:active {
-	color: #55F6F6;
+	color: #39f7ff;
 	text-decoration: none;
 }
 a:hover {
-	color: #55F6F6;
+	color: #d2fdff;
 	text-decoration: none;
 }

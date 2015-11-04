@@ -1,6 +1,6 @@
 ![xoL](http://nzonbi.github.io/xoL/res/xol.png)
 
-# xoL 
+# xoL
 
 ## xoL visual programming language
 
@@ -16,7 +16,7 @@ This repository contains a brief presentation of the language, in the form of a 
 
 ## Introduction
 
-xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations can make easier to understand programs. More specialized user interfaces can make easier to work with them. xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticated UI, well suited for tablets and desktops. 
+xoL is computer programming, evolved. Based on the belief that programming can go beyond text editors. More sophisticated graphical visualizations can make easier to understand programs. More specialized user interfaces can make easier to work with them. xoL is a graphical programming language, designed to be more efficient to use than text based ones. An elegant, yet powerful general purpose graphic language, with a sophisticated UI, well suited for tablets and desktops.
 
 xoL is statically typed, object based, hybrid functional, planned to be implemented on top of javascript. Its design is oriented toward simplicity and symmetry.
 
@@ -25,9 +25,9 @@ Graphical or visual is used to refer to programming languages that employ graphi
 Not considering platform attachment, visual languages so far, have failed against text based ones, on the fundamental features that make languages usable. These features are a few key points, that drive programmers preference of languages. When language selection is not forced by the platform or ecosystem, selection is driven mainly by these factors:
 
 * Language design: technical features that conform the language.
-* User Interface (UI) efficiency: Amount of effort required to perform actions. 
-* Information density: Amount of information show per screen surface. 
-* clarity: information must be clear and easy to read. 
+* User Interface (UI) efficiency: Amount of effort required to perform actions.
+* Information density: Amount of information show per screen surface.
+* clarity: information must be clear and easy to read.
 * Tooling: capability to extend or automate tasks with custom tools.
 
 xoL intends to demonstrate that with careful design, a graphical programming can surpass text based languages on all these fundamentals. Positioning itself as the preferable choice for development. It should be capable of attaining growth, initially mainly between programmers not attached to specific platforms or ecosystems. Then becoming of interest for hardware platform holders, who want to have the best tools for their platforms.

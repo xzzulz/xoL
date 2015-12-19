@@ -28,11 +28,11 @@ h3 {
 
 
 #top_box {
-  padding: 80px;
+  margin: 80px 0;
 }
 
-#logo {
-  margin: 10px auto;
+#logo_box {
+  margin: 0px auto;
   width: 380px;
 }
 
@@ -86,15 +86,28 @@ div.spacer2 {
   font-size: 0.8em;
   padding: 40px;
   margin-top: 60px;
-  height: 600px;
 }
 
 #footer_icon_box {
-  color: #508dff;
-  padding: 50px 90px 35px;
   margin: 120px auto;
   width: 150px;
   text-align: center;
+}
+
+#footer_icon {
+	width: 128px;
+}
+
+@media all and (max-width: 630px) {
+	#logo_box {
+		width: 90%;
+	}
+	#xol_logo {
+		width: 100%;
+	}
+	#footer_icon_box {
+	  margin: 40px auto;
+	}
 }
 
 a:link {

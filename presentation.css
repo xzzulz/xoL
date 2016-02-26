@@ -112,7 +112,9 @@ div.spacer2 {
   width: 150px;
   text-align: center;
 }
-
+#footer_icon {
+	width: 128px;
+}
 @media all and (max-width: 630px) {
 	#logo_box {
 		width: 90%;

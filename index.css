@@ -80,22 +80,16 @@ div.spacer2 {
   margin: 100px;
 }
 
-#footer {
-  background-color: #144889;
-  color: #508dff;
-  font-size: 0.8em;
-  padding: 40px;
-  margin-top: 60px;
+#pagefooter {
+	height: 50vh;
+	background-color: #2464a0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
-
-#footer_icon_box {
-  margin: 120px auto;
-  width: 150px;
-  text-align: center;
-}
-
-#footer_icon {
-	width: 128px;
+#pagefooter img {
+	width: 10vh;
+	padding: 2vh;
 }
 
 @media all and (max-width: 630px) {

@@ -10,15 +10,15 @@ xoL is a visual programming language. Currently just a concept design, as it has
 
 Concept design for iteration 9 was complete. [Language presentation](http://lignixz.github.io/xoL/)
 
-Prototype first was created based on iteration 9. Available here: [Language presentation](https://github.com/lignixz/xra9)
+Prototype first was created based on iteration 9. Available here: [prototype first](https://github.com/lignixz/xra9)
 
-Fundamental design improvements were made, into revision 10. Prototype second development just started, based on xol revision 10.
+Fundamental design improvements were made, into revision 10. Prototype second development just started, based on xol revision 10. The specs will be published gradually, for patreon supporters.
 
 A patreon campaign is available for those that want to help with development. [xoL Patreon](https://www.patreon.com/lignixz)
 
-## Specs
+## webpage
 
-This repository contains a description ofthe project, in the form of a webpage: http://lignixz.github.io/xoL/
+This repository contains a description of the project, in the form of a webpage: http://lignixz.github.io/xoL/
 
 ## Introduction
 

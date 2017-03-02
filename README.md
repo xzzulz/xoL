@@ -1,4 +1,4 @@
-![xoL](http://nzonbi.github.io/xoL/img/xol01.svg)
+![xoL](http://lignixz.github.io/xoL/img/xol01.svg)
 
 # xoL
 
@@ -8,11 +8,15 @@ xoL is a visual programming language. Currently just a concept design, as it has
 
 ## Project status
 
-Concept design is complete. [Language presentation](http://nzonbi.github.io/xoL/.)
+Concept design for iteration 9 was complete. [Language presentation](http://lignixz.github.io/xoL/)
+Prototype first was created based on iteration 9. Available here: [Language presentation](https://github.com/lignixz/xra9)
+Fundamental design improvements were made, into revision 10.
+Prototype second development just started, based on xol revision 10.
+A patreon campaign is available for those that want to help with development. [xoL Patreon](https://www.patreon.com/lignixz)
 
 ## Specs
 
-This repository contains a brief presentation of the language, in the form of a webpage: http://nzonbi.github.io/xoL/
+This repository contains a description ofthe project, in the form of a webpage: http://lignixz.github.io/xoL/
 
 ## Introduction
 

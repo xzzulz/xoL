@@ -1,4 +1,4 @@
-![xoL](http://nzonbi.github.io/xoL/res/xol.png)
+![xoL](http://nzonbi.github.io/xoL/img/xol01.svg)
 
 # xoL
 

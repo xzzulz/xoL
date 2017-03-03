@@ -80,9 +80,9 @@ div.spacer2 {
   margin: 100px;
 }
 
-#pagefooter {
-	height: 50vh;
-	background-color: #2464a0;
+#footericons {
+	height: 30vh;
+	background-color: #144889;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -90,6 +90,13 @@ div.spacer2 {
 #pagefooter img {
 	width: 10vh;
 	padding: 2vh;
+}
+#cpr {
+	height: 20vh;
+	background-color: #144889;
+	color: #75b1ff;
+	font-size: .8em;
+	text-align: center;
 }
 
 @media all and (max-width: 630px) {
